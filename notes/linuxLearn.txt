@@ -1,0 +1,24 @@
+
+show shell version
+gnome-shell --version
+
+
+show debian version
+lsb_release -a
+
+install a package from .deb file
+sudo dpkg -i package_name.deb
+
+rename
+mv origanel_name.txt new_name.txt
+
+move
+mv filename.txt path/to/directory
+
+extract .xz file
+tar xf nameofFile.xz
+
+
+search tips
+
+look for .deb package of software you like :D
