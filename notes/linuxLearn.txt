@@ -15,6 +15,16 @@ mv origanel_name.txt new_name.txt
 move
 mv filename.txt path/to/directory
 
+
+
+copy files to another folder
+syntax
+cp [source files] [destination folder]
+
+cp -r file1.txt file2.txt file3.txt /path/to/destination/folder
+
+
+
 extract .xz file
 tar xf nameofFile.xz
 
